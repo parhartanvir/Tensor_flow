@@ -38,7 +38,7 @@ def inputs():
     
     for i in range(0,75):
       filenames.append(filenames_positive[i])
-    for i in range(0,75):
+    for i in range(0,50):
       filenames.append(filenames_negative[i])  
     
     #print(filenames)
